@@ -1,0 +1,8 @@
+# ninja log v5
+3	629	6590775006335546	TrustPass/CMakeFiles/TrustPass.dir/TrustPass.cpp.obj	dff9d7f0b872239c
+0	251	6590903845623026	TrustPass/CMakeFiles/TrustPass.dir/DataStore.cpp.obj	2350a0ed968bf26f
+251	521	6590903848235405	TrustPass/TrustPass.exe	19454f2da97ce97b
+1	336	6590904064475804	TrustPass/CMakeFiles/TrustPass.dir/DataStore.cpp.obj	2350a0ed968bf26f
+337	461	6590904065536765	TrustPass/TrustPass.exe	19454f2da97ce97b
+1	252	6590904421714740	TrustPass/CMakeFiles/TrustPass.dir/DataStore.cpp.obj	2350a0ed968bf26f
+253	371	6590904422705638	TrustPass/TrustPass.exe	19454f2da97ce97b
